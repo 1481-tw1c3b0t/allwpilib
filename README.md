@@ -1,3 +1,18 @@
+# tw1c3b0t Project
+
+This repository contains BeagleBone Blue versions of the HAL, WPILibJ, and WPILibC projects. These are the core libraries for creating robot programs for the BeagleBone Blue (tw1c3b0t).
+
+The tw1c3b0t is a low cost, small, and very portable robot that allows students to prepare for programming a FIRST Robotics Competition robot.  tw1c3b0t is based on the BeagleBone Blue (https://beagleboard.org/blue).
+
+This repository will be more or less up to date with the real allwpilib, though various hacks will be made so that it can still run on a tw1c3b0t.  For example, tw1c3b0t does not support or require connection to a FIRST Field Management System - just a cheap bluetooth joystick.
+
+Join us on Discord: https://discord.gg/RvXHhFw
+
+FRC 1481 - The Riveters
+
+
+
+------------------ remainder copied from allwpilib ------------------
 # WPILib Project
 
 ![CI](https://github.com/wpilibsuite/allwpilib/workflows/CI/badge.svg)
